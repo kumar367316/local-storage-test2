@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "blob.connection-string",
+    "type": "java.lang.String",
+    "description": "A description for 'blob.connection-string'"
+  },
+  {
+    "name": "blob.container.name",
+    "type": "java.lang.String",
+    "description": "A description for 'blob.container.name'"
+  },
+  {
+    "name": "state.allow.type",
+    "type": "java.lang.String",
+    "description": "A description for 'state.allow.type'"
+  }
+]}
